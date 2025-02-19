@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@grapesjs/react": "2.0.0-rc.4",
+    "@grapesjs/studio-sdk": "file:../studio-platform/packages/studio-sdk",
     "@radix-ui/react-icons": "1.3.2",
     "@tailwindcss/postcss": "4.0.6",
     "class-variance-authority": "0.7.1",
